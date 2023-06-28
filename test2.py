@@ -1,2 +1,3 @@
 a = 30
-print(a)
+b = 40
+print(a+b)
